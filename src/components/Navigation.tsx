@@ -19,6 +19,8 @@ export default function Navigation() {
             <Link
               href="https://blog.justinherrera.com"
               className="text-[#2c2c2c] hover:text-gray-600 transition-colors"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               Blog
             </Link>

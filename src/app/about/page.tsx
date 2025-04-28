@@ -24,19 +24,21 @@ export default function About() {
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
               I&apos;ve spent the past few years helping small teams ship
               software that (hopefully) makes life a little easier—first as a
-              startup CTO and now as a wandering engineer-mentor. Most days
-              I&apos;m still figuring things out: how people flourish in
-              community, alleviating poverty among the poor and rich, and how
-              faith and technology can work together for good.
+              startup CTO and now as a wandering engineer-mentor. These days
+              I&apos;m still figuring things out: how healthy communities form,
+              and where faith and tech can quietly work together for good.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
               Outside the terminal, you&apos;ll catch me tweaking a pour-over
               recipe, jogging (slowly) toward a half-marathon, or sketching
               ideas for tools that help churches pray, translate, or simply stay
-              connected. My north star is simple: love God, love others, and
-              ship meaningful stuff. If that resonates, let&apos;s
-              connect—I&apos;d love to swap stories, share a freshly brewed cup,
-              and see where collaboration (and a lot of grace) might lead.
+              connected.
+            </p>
+            <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
+              My north star: love God, love others, and ship meaningful stuff.
+              If that resonates, let&apos;s connect—I&apos;d love to swap
+              stories, share a freshly brewed cup, and see where collaboration
+              (and a lot of grace) might lead.
             </p>
           </div>
         </div>

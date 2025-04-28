@@ -17,7 +17,7 @@ export default function Navigation() {
           </Link>
           <div className="flex space-x-8">
             <Link
-              href="/blog"
+              href="https://blog.justinherrera.com"
               className="text-[#2c2c2c] hover:text-gray-600 transition-colors"
             >
               Blog

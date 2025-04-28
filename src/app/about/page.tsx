@@ -22,14 +22,15 @@ export default function About() {
           </div>
           <div className="space-y-6">
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              Hi, I'm Justin! I'm a software engineer with a deep passion for
-              tech and faith. I’ve spent years building tools that unite people
-              and solve real-world problems. Outside of tech, I’m actively
-              involved in Christian ministry, always looking for ways to combine
-              my work with my faith, whether it's through prayer initiatives,
-              tech for missions, or empowering others. When I’m not coding,
-              you’ll find me experimenting with coffee brewing, training for
-              marathons, or reflecting on life’s big questions. I believe in
+              Hi, I&apos;m Justin! I&apos;m a software engineer with a deep
+              passion for tech and faith. I&apos;ve spent years building tools
+              that unite people and solve real-world problems. Outside of tech,
+              I&apos;m actively involved in Christian ministry, always looking
+              for ways to combine my work with my faith, whether it&apos;s
+              through prayer initiatives, tech for missions, or empowering
+              others. When I&apos;m not coding, you&apos;ll find me
+              experimenting with coffee brewing, training for marathons, or
+              reflecting on life&apos;s big questions. I believe in
               purpose-driven work and am always exploring how tech can be a
               force for good.
             </p>

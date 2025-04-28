@@ -16,7 +16,7 @@ export default function Footer() {
               </svg>
             </a>
             <a
-              href="https://linkedin.com/in/your-profile"
+              href="https://linkedin.com/in/thejustinh"
               className="text-gray-600 hover:text-gray-900 transition-colors duration-200"
             >
               <span className="sr-only">LinkedIn</span>
@@ -25,7 +25,7 @@ export default function Footer() {
               </svg>
             </a>
             <a
-              href="https://github.com/your-username"
+              href="https://github.com/justinnout"
               className="text-gray-600 hover:text-gray-900 transition-colors duration-200"
             >
               <span className="sr-only">GitHub</span>

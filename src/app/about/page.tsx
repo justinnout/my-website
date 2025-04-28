@@ -1,49 +1,47 @@
 import Navigation from "@/components/Navigation";
+import Image from "next/image";
+import Footer from "@/components/Footer";
 
 export default function About() {
   return (
-    <div className="min-h-screen bg-background text-foreground">
+    <div className="min-h-screen bg-background text-foreground flex flex-col justify-between">
       <Navigation />
       <main className="container mx-auto px-4 py-16 md:py-24">
         <div className="max-w-3xl mx-auto">
           <h1 className="text-5xl font-sans font-bold mb-8 tracking-tight">
             About Me
           </h1>
+          <div className="flex justify-center my-12">
+            <Image
+              src="/profile.png"
+              alt="Justin Herrera"
+              width={256}
+              height={256}
+              className="rounded-full"
+            />
+          </div>
           <div className="space-y-6">
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              Welcome to my personal website. I'm a developer passionate about
-              creating meaningful experiences through code.
+              Hi, I'm Justin! I'm a software engineer with a deep passion for
+              tech and faith. I’ve spent years building tools that unite people
+              and solve real-world problems. Outside of tech, I’m actively
+              involved in Christian ministry, always looking for ways to combine
+              my work with my faith, whether it's through prayer initiatives,
+              tech for missions, or empowering others. When I’m not coding,
+              you’ll find me experimenting with coffee brewing, training for
+              marathons, or reflecting on life’s big questions. I believe in
+              purpose-driven work and am always exploring how tech can be a
+              force for good.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
               This is a place where I share my thoughts, experiences, and
               projects. Feel free to explore and connect with me through the
               links below.
             </p>
-            <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-8">
-              <div className="p-6 bg-gray-50 dark:bg-gray-800 rounded-lg hover:shadow-lg transition-shadow">
-                <h2 className="text-xl font-sans font-semibold mb-4">Skills</h2>
-                <ul className="space-y-2 text-gray-600 dark:text-gray-300">
-                  <li>Web Development</li>
-                  <li>UI/UX Design</li>
-                  <li>Problem Solving</li>
-                  <li>Team Collaboration</li>
-                </ul>
-              </div>
-              <div className="p-6 bg-gray-50 dark:bg-gray-800 rounded-lg hover:shadow-lg transition-shadow">
-                <h2 className="text-xl font-sans font-semibold mb-4">
-                  Interests
-                </h2>
-                <ul className="space-y-2 text-gray-600 dark:text-gray-300">
-                  <li>Technology</li>
-                  <li>Design</li>
-                  <li>Innovation</li>
-                  <li>Learning</li>
-                </ul>
-              </div>
-            </div>
           </div>
         </div>
       </main>
+      <Footer />
     </div>
   );
 }

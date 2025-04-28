@@ -22,22 +22,21 @@ export default function About() {
           </div>
           <div className="space-y-6">
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              Hi, I&apos;m Justin! I&apos;m a software engineer with a deep
-              passion for tech and faith. I&apos;ve spent years building tools
-              that unite people and solve real-world problems. Outside of tech,
-              I&apos;m actively involved in Christian ministry, always looking
-              for ways to combine my work with my faith, whether it&apos;s
-              through prayer initiatives, tech for missions, or empowering
-              others. When I&apos;m not coding, you&apos;ll find me
-              experimenting with coffee brewing, training for marathons, or
-              reflecting on life&apos;s big questions. I believe in
-              purpose-driven work and am always exploring how tech can be a
-              force for good.
+              I&apos;ve spent the past few years helping small teams ship
+              software that (hopefully) makes life a little easier—first as a
+              startup CTO and now as a wandering engineer-mentor. Most days
+              I&apos;m still figuring things out: how people flourish in
+              community, alleviating poverty among the poor and rich, and how
+              faith and technology can work together for good.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              This is a place where I share my thoughts, experiences, and
-              projects. Feel free to explore and connect with me through the
-              links below.
+              Outside the terminal, you&apos;ll catch me tweaking a pour-over
+              recipe, jogging (slowly) toward a half-marathon, or sketching
+              ideas for tools that help churches pray, translate, or simply stay
+              connected. My north star is simple: love God, love others, and
+              ship meaningful stuff. If that resonates, let&apos;s
+              connect—I&apos;d love to swap stories, share a freshly brewed cup,
+              and see where collaboration (and a lot of grace) might lead.
             </p>
           </div>
         </div>

@@ -22,19 +22,43 @@ export default function About() {
           </div>
           <div className="space-y-6">
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              I&apos;ve spent the past few years helping small teams ship
-              software that (hopefully) makes life a little easier—first as a
-              startup CTO and now as a wandering engineer-mentor.
+              Hi, I&apos;m Justin — a builder and a believer.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              Off-screen you&apos;ll find me perfecting a pour-over, riffing on
-              Californian dishes, training for a sub-2-hour half, or tinkering with
-              tools that help people.
+              I&apos;ve spent the past few years working at the intersection of
+              faith, technology, and community. Whether I&apos;m mentoring
+              entrepreneurs and builders, or contributing to digital missions,
+              I&apos;m driven by a desire to see people flourish — spiritually,
+              relationally, and practically.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              My north star: love God, love others, and ship work that matters.
-              If that resonates, let&apos;s connect—I&apos;d love to swap
-              stories, share a freshly brewed cup, and see where grace leads.
+              Right now, I&apos;m focused on a few things that are close to my
+              heart:
+            </p>
+            <ul className="list-disc list-inside space-y-2 text-lg text-gray-600 dark:text-gray-300 leading-relaxed ml-4">
+              <li>
+                Building tools that help Christians live with intentionality
+              </li>
+              <li>
+                Supporting mission-minded teams with product and technical
+                guidance
+              </li>
+              <li>
+                Exploring how the gospel speaks into various aspects of life —
+                especially during seasons of doubt, transition, or waiting
+              </li>
+            </ul>
+            <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
+              Outside of work, I&apos;m training for a half-marathon,
+              experimenting with Californian dishes, and learning how to rest
+              well. I love deep conversations, helping friends name what
+              they&apos;re good at, and crafting little moments of delight —
+              whether in apps or homemade meals.
+            </p>
+            <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
+              Above all, I believe that who we&apos;re becoming matters more
+              than what we&apos;re building — and I&apos;m trying to live that
+              out a day at a time, by God&apos;s grace.
             </p>
           </div>
         </div>

@@ -32,33 +32,31 @@ export default function About() {
               relationally, and practically.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              Right now, I&apos;m focused on a few things that are close to my
-              heart:
+              Lately, I’ve been:
             </p>
             <ul className="list-disc list-inside space-y-2 text-lg text-gray-600 dark:text-gray-300 leading-relaxed ml-4">
               <li>
-                Building tools that help Christians live with intentionality
+                Building tools that help Christians live with purpose and rhythm
               </li>
               <li>
-                Supporting mission-minded teams with product and technical
-                guidance
+                Helping mission-minded teams think through tech and product
+                strategy
               </li>
               <li>
-                Exploring how the gospel speaks into various aspects of life —
-                especially during seasons of doubt, transition, or waiting
+                Exploring how the gospel speaks into seasons of doubt, change,
+                and waiting
               </li>
             </ul>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              Outside of work, I&apos;m training for a half-marathon,
-              experimenting with Californian dishes, and learning how to rest
-              well. I love deep conversations, helping friends name what
-              they&apos;re good at, and crafting little moments of delight —
-              whether in apps or homemade meals.
+              Outside of work, I’m training for a marathon and experimenting
+              with Californian dishes (secretly a J kenji wannabe). I love long walks, deep talks, helping
+              friends name their gifts, and crafting small moments of delight —
+              whether in an app or over dinner.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              Above all, I believe that who we&apos;re becoming matters more
-              than what we&apos;re building — and I&apos;m trying to live that
-              out a day at a time, by God&apos;s grace.
+              At the end of the day, I care less about what I’m building and
+              more about who I’m becoming. Still learning that one — one mile,
+              one meal, and one prayer at a time.
             </p>
           </div>
         </div>

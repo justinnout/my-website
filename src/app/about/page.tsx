@@ -22,7 +22,7 @@ export default function About() {
           </div>
           <div className="space-y-6">
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              Hi, I&apos;m Justin — a builder and a believer.
+              Hi, I&apos;m Justin!
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
               I&apos;ve spent the past few years working at the intersection of
@@ -36,7 +36,7 @@ export default function About() {
             </p>
             <ul className="list-disc list-inside space-y-2 text-lg text-gray-600 dark:text-gray-300 leading-relaxed ml-4">
               <li>
-                Building tools that help Christians live with purpose and rhythm
+                Building tools that help people live with purpose and rhythm
               </li>
               <li>
                 Helping mission-minded teams think through tech and product

@@ -1,6 +1,7 @@
 import Navigation from "@/components/Navigation";
 import Image from "next/image";
 import Footer from "@/components/Footer";
+import profileImage from "../../../public/profile.png";
 
 export default function About() {
   return (
@@ -13,11 +14,12 @@ export default function About() {
           </h1>
           <div className="flex justify-center my-12">
             <Image
-              src="/profile.png"
+              src={profileImage}
               alt="Justin Herrera"
               width={256}
               height={256}
               className="rounded-full"
+              priority
             />
           </div>
           <div className="space-y-6">
@@ -48,15 +50,14 @@ export default function About() {
               </li>
             </ul>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              Outside of work, I’m training for a marathon and experimenting
-              with Californian dishes (secretly a J kenji wannabe). I love long walks, deep talks, helping
-              friends name their gifts, and crafting small moments of delight —
-              whether in an app or over dinner.
+              When I’m not in front of a screen, I’m probably running
+              (marathon training), cooking something inspired by J. Kenji
+              López-Alt, or planning the next dinner with friends.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              At the end of the day, I care less about what I’m building and
-              more about who I’m becoming. Still learning that one — one mile,
-              one meal, and one prayer at a time.
+              At the end of the day, I care less about what I’m building or
+              doing and more about who I’m becoming. Still learning that one —
+              one mile, one meal, and one prayer at a time.
             </p>
           </div>
         </div>

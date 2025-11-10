@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import notionFaceImage from "../../public/notion_face.png";
 
 export default function Navigation() {
   return (
@@ -8,11 +9,12 @@ export default function Navigation() {
         <div className="flex justify-between items-center h-16">
           <Link href="/" className="flex items-center">
             <Image
-              src="/notion_face.png"
+              src={notionFaceImage}
               alt="Justin Herrera"
               width={40}
               height={40}
               className="rounded-full"
+              priority
             />
           </Link>
           <div className="flex space-x-8">

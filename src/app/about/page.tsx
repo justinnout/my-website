@@ -24,40 +24,19 @@ export default function About() {
           </div>
           <div className="space-y-6">
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              Hi, I&apos;m Justin!
+              Hi, I&apos;m Justin.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              I&apos;ve spent the past few years working at the intersection of
-              faith, technology, and community. Whether I&apos;m mentoring
-              entrepreneurs and builders, or contributing to digital missions,
-              I&apos;m driven by a desire to see people flourish — spiritually,
-              relationally, and practically.
+              I work where faith, technology, and community meet—building tools, mentoring builders, and helping teams move with intention instead of urgency.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              Lately, I’ve been:
-            </p>
-            <ul className="list-disc list-inside space-y-2 text-lg text-gray-600 dark:text-gray-300 leading-relaxed ml-4">
-              <li>
-                Building tools that help people live with purpose and rhythm
-              </li>
-              <li>
-                Helping mission-minded teams think through tech and product
-                strategy
-              </li>
-              <li>
-                Exploring how the gospel speaks into seasons of doubt, change,
-                and waiting
-              </li>
-            </ul>
-            <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              When I’m not in front of a screen, I’m probably running
-              (marathon training), cooking something inspired by J. Kenji
-              López-Alt, or planning the next dinner with friends.
+              I&apos;m drawn to the slow work of formation: how seasons of growth, doubt, and waiting shape us, and how the things we build shape us in return.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              At the end of the day, I care less about what I’m building or
-              doing and more about who I’m becoming. Still learning that one —
-              one mile, one meal, and one prayer at a time.
+              When I&apos;m not working, I&apos;m usually running long miles, cooking something thoughtful, or gathering friends around a table.
+            </p>
+            <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
+              In the end, I care less about what I&apos;m building and more about who I&apos;m becoming—one mile, one meal, and one prayer at a time.
             </p>
           </div>
         </div>

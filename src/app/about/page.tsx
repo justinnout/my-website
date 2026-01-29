@@ -18,7 +18,7 @@ export default function About() {
               alt="Justin Herrera"
               width={256}
               height={256}
-              className="rounded-full"
+              className="grayscale"
               priority
             />
           </div>
@@ -27,16 +27,16 @@ export default function About() {
               Hi, I&apos;m Justin.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              I work where faith, technology, and community meet—building tools, mentoring builders, and helping teams move with intention instead of urgency.
+              I work at the intersection of faith, technology, and community—building tools, mentoring builders, and helping teams slow down and move with intention.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              I&apos;m drawn to the slow work of formation: how seasons of growth, doubt, and waiting shape us, and how the things we build shape us in return.
+              I&apos;m interested in formation: how seasons of growth, doubt, and waiting shape us, and how the things we build shape us in return.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              When I&apos;m not working, I&apos;m usually running long miles, cooking something thoughtful, or gathering friends around a table.
+              Outside of work, I&apos;m usually running miles, cooking, or gathering friends around a table.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              In the end, I care less about what I&apos;m building and more about who I&apos;m becoming—one mile, one meal, and one prayer at a time.
+              More than what I&apos;m building, I care about who I&apos;m becoming - one mile, one meal, and one prayer at a time.
             </p>
           </div>
         </div>
